@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: d2e215fa8ae3e5b4b870be16c30e810a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabina
+    100002: Eliche
+    100004: Faro1
+    100006: Grata1
+    100008: Grata2
+    100010: Grata3
+    100012: //RootNode
+    100014: Line001
+    100016: Line002
+    100018: Luce
+    100020: Luce001
+    100022: Motore
+    100024: Object004
+    100026: Plane004
+    100028: Plane007
+    100030: Plane008
+    100032: Plane009
+    100034: Plane010
+    100036: PortaElicaPiccola
+    100038: Scarico
+    400000: Cabina
+    400002: Eliche
+    400004: Faro1
+    400006: Grata1
+    400008: Grata2
+    400010: Grata3
+    400012: //RootNode
+    400014: Line001
+    400016: Line002
+    400018: Luce
+    400020: Luce001
+    400022: Motore
+    400024: Object004
+    400026: Plane004
+    400028: Plane007
+    400030: Plane008
+    400032: Plane009
+    400034: Plane010
+    400036: PortaElicaPiccola
+    400038: Scarico
+    2100000: Base
+    2100002: ElichePiccole
+    2100004: Tubi
+    2100006: ElicheGrandi
+    2100008: Ventole
+    2100010: Luce
+    2100012: BaseLuce
+    2100014: LuceDavanti
+    2100016: No Name
+    2100018: Scarico
+    2100020: Vetro
+    2300000: Cabina
+    2300002: Eliche
+    2300004: Faro1
+    2300006: Grata1
+    2300008: Grata2
+    2300010: Grata3
+    2300012: Line001
+    2300014: Line002
+    2300016: Luce
+    2300018: Luce001
+    2300020: Motore
+    2300022: Object004
+    2300024: Plane004
+    2300026: Plane007
+    2300028: Plane008
+    2300030: Plane009
+    2300032: Plane010
+    2300034: PortaElicaPiccola
+    2300036: Scarico
+    3300000: Cabina
+    3300002: Eliche
+    3300004: Faro1
+    3300006: Grata1
+    3300008: Grata2
+    3300010: Grata3
+    3300012: Line001
+    3300014: Line002
+    3300016: Luce
+    3300018: Luce001
+    3300020: Motore
+    3300022: Object004
+    3300024: Plane004
+    3300026: Plane007
+    3300028: Plane008
+    3300030: Plane009
+    3300032: Plane010
+    3300034: PortaElicaPiccola
+    3300036: Scarico
+    4300000: Cabina
+    4300002: PortaElicaPiccola
+    4300004: Plane004
+    4300006: Line001
+    4300008: Line002
+    4300010: Motore
+    4300012: Eliche
+    4300014: Grata1
+    4300016: Grata2
+    4300018: Plane007
+    4300020: Luce
+    4300022: Luce001
+    4300024: Faro1
+    4300026: Grata3
+    4300028: Plane008
+    4300030: Scarico
+    4300032: Plane009
+    4300034: Object004
+    4300036: Plane010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
